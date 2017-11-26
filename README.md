@@ -2,6 +2,8 @@
 Rede neural SIMPLES para ser usada como base para redes mais complexas.
 Perceptron para encontrar os melhores pesos para trabalhar com operadores lógicos
 
+- Usando NumPy, Anaconda com Python 3.5
+
 ### Operadores AND e OR
 Perceptron de uma camada - Arquivo "perceptron.py"
 Ideal para problemas com solução linear
